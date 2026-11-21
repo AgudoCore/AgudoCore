@@ -8,7 +8,7 @@ Student from Spain who wants to work in cybersecurity. I'm learning by contribut
 
 <table>
 <tr>
-<td width="72" align="center"><a href="https://github.com/boykopovar/AnyPS5">🎮</a></td>
+<td width="72" align="center"><a href="https://github.com/boykopovar/AnyPS5"><img src="assets/icons/anyps5.png" width="52" alt="AnyPS5" /></a></td>
 <td>
 <b><a href="https://github.com/boykopovar/AnyPS5">AnyPS5</a></b><br />
 Runs PS5 executables natively on Linux and Windows, without emulation. I run its GPU tests and its hardware oracle on real AMD hardware, and add probes to the oracle's catalog.<br />
